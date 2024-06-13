@@ -7,7 +7,7 @@
 #include "Draw.h"
 #include "algorithm"
 
-const char kWindowTitle[] = "LE2B_17_ナガイ_コハク_MT3_2_7 AABBと線の当たり判定";
+const char kWindowTitle[] = "LE2B_17_ナガイ_コハク_MT3_2_8 OBBと球の当たり判定";
 
 bool IsCollision(OBB obb, Sphere sphere);
 
